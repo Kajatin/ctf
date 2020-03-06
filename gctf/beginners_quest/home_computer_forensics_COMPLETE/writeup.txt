@@ -1,0 +1,10 @@
+1. get attachment and unzip
+2. mount ntfs file
+   mount family.ntfs /mnt
+3. read credentials.txt file inside mount
+4. attr -l credentials.txt
+5. save attr into a file
+   attr -g FILE0 credentials.txt > cred
+6. remove 1st line and convert to PNG image
+   sed '1d' cred > tmpfile; mv tmpfile cred.PNG
+7. solution is in the image

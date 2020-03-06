@@ -1,0 +1,8 @@
+Simple SQL injection
+
+' or true #
+
+!! the comment sign is '#' not '--' since this is MySQL
+
+https://pentestlab.blog/2012/12/24/sql-injection-authentication-bypass-cheat-sheet/
+https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/#LineComments

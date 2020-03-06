@@ -1,0 +1,4 @@
+Search wireshark to find the packet with HTTP get info:
+http://www.hazzy.co.uk/?msg=ZmxhZ3tBRmxhZ0luUENBUH0=
+
+The msg is the base64 encoded flag.

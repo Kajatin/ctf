@@ -1,0 +1,5 @@
+go to ctflearn.com/robots.txt
+
+read disallow
+
+go to ctflearn.com/70r3hnanldfspufdsoifnlds.html

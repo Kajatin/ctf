@@ -1,0 +1,7 @@
+https://github.com/nathanieloon/CTF_writeups/blob/master/2019/google_ctf/FriendSpaceBookPlusAllAccessRedPremium/FriendSpaceBookPlusAllAccessRedPremium.md
+
+https://github.com/Gdasl/CTFs/blob/master/GoogleCTF2019/BeginnerQuest/FriendSpaceBookPlusAllAccessRedPremium.com/Readme.md
+
+http://oeis.org/A002385
+
+http://emoji-t0anaxnr3nacpt4na.web.ctfcompetition.com/humans_and_cauliflowers_network/amber.html

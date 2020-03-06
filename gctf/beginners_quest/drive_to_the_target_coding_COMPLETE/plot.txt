@@ -1,0 +1,3 @@
+http://www.hamstermap.com/quickmap.php
+
+copy coords from coords.txt

@@ -1,0 +1,7 @@
+unzip The\ Flag.zip 
+
+tree -la
+
+cat The\ Flag/.ThePassword/ThePassword.txt -> Im The Flag
+
+evince The\ Flag/The\ Flag.pdf

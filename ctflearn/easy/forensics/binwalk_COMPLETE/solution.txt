@@ -1,0 +1,5 @@
+binwalk -D='.*' PurpleThing.jpeg
+
+cd _PurpleThing.jpeg.extracted/
+
+eog 25795

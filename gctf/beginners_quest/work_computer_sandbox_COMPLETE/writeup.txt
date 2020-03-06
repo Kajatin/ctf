@@ -1,0 +1,8 @@
+1. netcat into server
+   nc readme.ctfcompetition.com 1337
+2. ls -l /bin
+   discover that every cmd runs busybox
+3. ls -l /usr/bin
+   more commands, some are not busybox
+4. find that iconv is the one needed
+5. iconv README.flag
